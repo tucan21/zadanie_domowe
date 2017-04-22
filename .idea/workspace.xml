@@ -12,7 +12,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="homework_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="homework_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
@@ -20,6 +20,16 @@
               <folding>
                 <element signature="e#24#82#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -34,7 +44,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="add_new_contact.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/add_new_contact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/group.py" />
         <option value="$PROJECT_DIR$/homework_1.py" />
+        <option value="$PROJECT_DIR$/contact.py" />
+        <option value="$PROJECT_DIR$/add_new_contact.py" />
       </list>
     </option>
   </component>
@@ -115,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in homework_1.py">
+  <component name="RunManager" selected="Python tests.py.test in add_new_contact.py">
     <configuration default="false" name="py.test in homework_1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,6 +158,22 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/homework_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in add_new_contact.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zadanie_domowe" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/add_new_contact.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
@@ -197,12 +242,14 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in homework_1.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in add_new_contact.py" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in homework_1.py" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in add_new_contact.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in homework_1.py" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +267,12 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="py_test_in_add_new_contact_py - 2017.04.22 at 15h 18m 33s.xml">
+      <configuration name="py.test in add_new_contact.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_add_new_contact_py - 2017.04.22 at 15h 31m 46s.xml">
+      <configuration name="py.test in add_new_contact.py" configurationId="tests" />
+    </history-entry>
     <history-entry file="py_test_in_homework_1_py - 2017.04.17 at 17h 24m 52s.xml">
       <configuration name="py.test in homework_1.py" configurationId="tests" />
     </history-entry>
@@ -298,6 +351,22 @@
           <folding>
             <element signature="e#24#82#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_new_contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
